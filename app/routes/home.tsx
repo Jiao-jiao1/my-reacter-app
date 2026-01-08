@@ -8,7 +8,11 @@ export default function Home() {
       <p className="mt-4 text-lg text-slate-400">
         恭喜！你已成功搭建现代化的 React 开发环境。
       </p>
-      <a href="https://reactrouter.com/docs" target="_blank">
+      <a 
+        href="https://reactrouter.com/docs" 
+        target="_blank" 
+        rel="noopener noreferrer"
+      >
         <button className="mt-8 px-6 py-3 bg-sky-500 hover:bg-sky-400 rounded-full font-bold transition">
           查看文档
         </button>
