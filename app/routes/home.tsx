@@ -9,9 +9,9 @@ export default function Home() {
         恭喜！你已成功搭建现代化的 React 开发环境。
         Welcome to my router app!
       </p>
-      <a 
-        href="https://reactrouter.com/docs" 
-        target="_blank" 
+      <a
+        href="https://reactrouter.com/docs"
+        target="_blank"
         rel="noopener noreferrer"
       >
         <button className="mt-8 px-6 py-3 bg-sky-500 hover:bg-sky-400 rounded-full font-bold transition">
