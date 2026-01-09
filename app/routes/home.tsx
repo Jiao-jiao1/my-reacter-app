@@ -7,6 +7,7 @@ export default function Home() {
       </h1>
       <p className="mt-4 text-lg text-slate-400">
         恭喜！你已成功搭建现代化的 React 开发环境。
+        Welcome to my router app!
       </p>
       <a 
         href="https://reactrouter.com/docs" 
